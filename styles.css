@@ -54,6 +54,8 @@
     transform: translateY(3rem);
     animation: fadeInUp 2s ease calc(var(--typewriterSpeed) + 2s) forwards;
   }
+  img  {border-radius: 50%;
+        }
   
   @keyframes typewriter {
     to {
